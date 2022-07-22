@@ -1,0 +1,66 @@
+.table_class
+{
+    margin-left:35%;
+    border-radius: 5px;
+    text-align: center;
+    width: 400px;
+    height: 15px;
+    font-size: 30px;
+    border: 2px solid;
+}
+.user_info{
+    margin-left:35%;
+    font-size: 16pt;
+    font-weight: bold;
+}
+button.field
+{
+    /* margin: 7px; */
+    width: 80px;
+    height: 60px;
+    font-size: 40px;
+}
+
+.reg_page{
+    margin-top:  10%;
+    margin-left: 40%;
+    max-width: 300px;
+}
+.log_page{
+    margin-top:  10%;
+    margin-left: 40%;
+    max-width: 300px;
+}
+.btn.btn-primary{
+    width: auto;
+    font-size: 16pt;
+}
+.headerbutton{
+    float: right;
+    width: auto;
+    font-size: 16pt;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.wrapper {
+    overflow: hidden;
+    min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	
+}
+.header{
+    align-items: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size: 40px;   
+   
+    border-bottom: 3px solid #000000;
+}
+.main {
+    padding-top: 13%;
+    padding-left: 12%;
+    padding-right: 12%;
+    flex: 1 1 auto;
+}
